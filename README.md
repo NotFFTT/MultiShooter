@@ -1,5 +1,7 @@
 # Multishooter
 
+Multishooter is a multiplayer arcade-style game where players compete to be the first to shoot a target that appears at random locations on the screen. The goal is for multiplayer connectivity to be handled via websockets to allow players to join via internet connection.  
+
 ## Team
 
 - Miguel Fierro
