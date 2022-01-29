@@ -1,4 +1,4 @@
-# NotFFTT
+# Multishooter
 
 ## Cooperation Plan
 
