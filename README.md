@@ -2,9 +2,9 @@
 
 ## Team
 
-- Chloe Nott
-- David Hecker
 - Miguel Fierro
+- David Hecker
+- Chloe Nott
 - Brannon Starnes
 
 ## Cooperation Plan
