@@ -6,6 +6,9 @@
 4. As a user, I want to keep scores and display a high score. 
 5. As an admin, I want the maintenance costs to be cheap.
 
+## Wireframe
+
+![concepts](https://user-images.githubusercontent.com/89756479/151723804-bcf2d3c7-2c3e-44b2-ae62-02cf1f06721a.PNG)
 
 ## Software Requirements
 
