@@ -49,3 +49,7 @@ List the functionality of your product.
 - Not too demanding on computer hardware. Game design choices should keep hardware limitations in mind (not too many sprites, world map limited in size, etc).
 - Not too demanding for network speed or bandwidth. Game should still be fun to play even if there's half a second of lag or so, so game design choices should keep this in mind.
 - Uses Python Arcade for the game engine. Made with python for both client and server.
+
+## Domain Model
+
+![Screen Shot 2022-01-30 at 4 07 28 PM](https://user-images.githubusercontent.com/89756479/151723672-a78409ce-bb48-433e-a00c-847cb49c1a8b.png)
